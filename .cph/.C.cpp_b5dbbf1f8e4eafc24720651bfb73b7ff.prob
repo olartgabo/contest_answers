@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Users\\User\\Desktop\\GitHub\\contest_upb\\contest_answers\\C.cpp","tests":[{"id":1749425850551,"input":"10 12\n10 14\n100 200","output":"2\n4\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\GitHub\\contest_upb\\contest_answers\\C.cpp","group":"local","local":true}
